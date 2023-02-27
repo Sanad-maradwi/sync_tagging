@@ -1,0 +1,29 @@
+// this is sample output when attached .py file successfully run then it
+
+{
+    "InstanceID": "i-0123456789abcdef",
+    "Region": "us-east-1",
+    "Tags": {
+        "Name": "MyInstance",
+        "Environment": "Production",
+        "Team": "MyTeam"
+    }
+}
+{
+    "InstanceID": "i-0129056778abcdbv",
+    "Region": "us-east-1",
+    "Tags": {
+        "Name": "MyInstance",
+        "Environment": "deployment",
+        "Team": "MyTeam"
+    }
+}
+{
+    "BucketName": "mybucket",
+    "Region": "us-east-1",
+    "Tags": {
+        "Name": "MyBucket",
+        "Environment": "Production",
+        "Team": "MyTeam"
+    }
+}
